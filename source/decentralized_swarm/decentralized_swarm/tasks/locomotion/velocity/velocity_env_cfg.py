@@ -19,7 +19,7 @@ from isaaclab.terrains import TerrainImporterCfg
 from isaaclab.utils import configclass
 from isaaclab.utils.noise import AdditiveUniformNoiseCfg as Unoise
 
-import isaac_capstone.tasks.locomotion.velocity.mdp as mdp
+import decentralized_swarm.tasks.locomotion.velocity.mdp as mdp
 
 ##
 # Pre-defined configs

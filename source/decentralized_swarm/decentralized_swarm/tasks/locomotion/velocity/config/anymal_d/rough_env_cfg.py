@@ -1,6 +1,6 @@
 from isaaclab.utils import configclass
 
-from isaac_capstone.tasks.locomotion.velocity.velocity_env_cfg import LocomotionVelocityRoughEnvCfg
+from decentralized_swarm.tasks.locomotion.velocity.velocity_env_cfg import LocomotionVelocityRoughEnvCfg
 
 ##
 # Pre-defined configs

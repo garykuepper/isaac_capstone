@@ -1,4 +1,4 @@
-"""Installation script for the 'isaac_capstone' python package."""
+"""Installation script for the 'decentralized_swarm' python package."""
 
 import os
 import toml
@@ -18,8 +18,8 @@ INSTALL_REQUIRES = [
 
 # Installation operation
 setup(
-    name="isaac_capstone",
-    packages=["isaac_capstone"],
+    name="decentralized_swarm",
+    packages=["decentralized_swarm"],
     author=EXTENSION_TOML_DATA["package"]["author"],
     maintainer=EXTENSION_TOML_DATA["package"]["maintainer"],
     url=EXTENSION_TOML_DATA["package"]["repository"],
